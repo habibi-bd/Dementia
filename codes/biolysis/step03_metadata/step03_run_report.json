@@ -1,0 +1,7 @@
+{
+  "step": 3,
+  "description": "Sample metadata and phenotype validation",
+  "datasets_requested": 13,
+  "datasets_processed": 13,
+  "output_directory": "D:\\Dementia2\\codes\\biolysis\\step03_metadata"
+}

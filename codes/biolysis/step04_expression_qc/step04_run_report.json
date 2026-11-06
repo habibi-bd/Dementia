@@ -1,0 +1,10 @@
+{
+  "step": 4,
+  "description": "Expression matrix quality and scale validation",
+  "datasets_requested": 12,
+  "datasets_processed": 12,
+  "excluded_datasets": [
+    "GSE26927"
+  ],
+  "output_directory": "D:\\Dementia2\\codes\\biolysis\\step04_expression_qc"
+}
